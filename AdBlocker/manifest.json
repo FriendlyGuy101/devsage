@@ -1,7 +1,7 @@
 {
-    "name": "DevSage Adblocker",
+    "name": "LAUSD Safe Adblocker",
     "version": "1.0",
-    "description": "DevSage Adblocker Tutorial",
+    "description": "This is an AdBlocker safe for lausd teachers and students",
     "permissions": ["webRequest", "webRequestBlocking", "<all_urls>"],
     "background": {
         "scripts": ["background.js"]
